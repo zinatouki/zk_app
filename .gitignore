@@ -12,9 +12,12 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+sidekiq.log
 
 /node_modules
 /yarn-error.log
 
 .byebug_history
 .DS_Store
+
+config/application.yml
